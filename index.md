@@ -27,6 +27,7 @@ The goal is practical learning, clean documentation, and repeatable builds.
 - Planned integrations with automation and monitoring tools
 
 👉 **[View the Homelab Infrastructure Repository](https://github.com/mattwalden/homelab-infra)**
+
 👉 **[Homelab Documentation](/homelab)**
 
 
