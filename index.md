@@ -1,1 +1,45 @@
+---
+title: Matt Walden
+---
+
+# Matt Walden
+
+IT Infrastructure Technician  
+Homelab • Networking • Virtualization • Automation
+
+---
+
+## 👋 About
+
+This site documents my personal homelab and infrastructure projects.
+I use it to design, test, and document real-world IT systems including
+network segmentation, virtualization, firewalling, and automation.
+
+The goal is practical learning, clean documentation, and repeatable builds.
+
+---
+
+## 🧱 Homelab Overview
+
+- Proxmox VE virtualization
+- pfSense firewall and VLAN segmentation
+- GitHub-based documentation and change tracking
+- Planned integrations with automation and monitoring tools
+
+👉 **[View the Homelab Infrastructure Repository](https://github.com/mattwalden/homelab-infra)**
+
+---
+
+## 📜 Certifications & Learning
+
+- Linux Essentials (LPI)
+- Security+ (in progress)
+- Azure / Cloud fundamentals (planned)
+
+---
+
+## 🔗 Links
+
+- GitHub: https://github.com/mattwalden
+- LinkedIn: https://www.linkedin.com/in/mattwalden/
 
