@@ -43,6 +43,6 @@ The goal is practical learning, clean documentation, and repeatable builds.
 
 ## 🔗 Links
 
-- GitHub: https://github.com/mattwalden
-- LinkedIn: https://www.linkedin.com/in/mattwalden/
+- 🔧 **GitHub** — [View my repositories](https://github.com/mattwalden)
+- 💼 **LinkedIn** — [Connect with me](https://www.linkedin.com/in/mattwalden/)
 
